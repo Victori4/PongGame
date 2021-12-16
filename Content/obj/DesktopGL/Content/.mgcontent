@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Victoria/source/repos/Pong/Pong/Content/../../../../../Desktop/Project/ball.png</File>
+    <File>C:/Users/Victoria/source/repos/Pong/Pong/Content/../../../../../Desktop/Project/paddle.png</File>
+    <File>C:/Users/Victoria/source/repos/Pong/Pong/Content/../../../../../Desktop/Project/table.png</File>
+    <File>C:/Users/Victoria/source/repos/Pong/Pong/Content/Font.spritefont</File>
+  </SourceFiles>
+  <DestFiles>
+    <File>ball.png</File>
+    <File>paddle.png</File>
+    <File>table.png</File>
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
